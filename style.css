@@ -16,20 +16,12 @@
   .container {
     /* width: 500px;
     height: 500px; */
-    margin: 10px;
+    margin: 0px;
     /* display: flex; */
     justify-content:center;
     align-items: center;
   }
 
-/*
-    .item {
-      width: 200px;
-      height: 200px;
-      margin:25px;
-      background-color: white} */
-
-    /* apply negative margins to truly center horizontally and vertically*/
 
 
     .column {
