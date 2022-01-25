@@ -127,7 +127,7 @@
 .container {
     width: 700px;
     height: 800px;
-    margin: 25px;
+    margin: 15px;
     display: flex;
     justify-content:center;
     align-items: center;
@@ -142,7 +142,7 @@
 
 #firstbutton, #secondbutton, #thirdbutton{
   position: absolute;
-  bottom: 0px;
+  bottom: 10px;
 }
 
 #first {
