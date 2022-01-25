@@ -141,7 +141,7 @@
 
 
 #firstbutton, #secondbutton, #thirdbutton{
-  position: absolute;
+  position: relative;
   bottom: 10px;
 }
 
