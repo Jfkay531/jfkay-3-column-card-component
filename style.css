@@ -142,7 +142,7 @@
 
 #firstbutton, #secondbutton, #thirdbutton{
   position: relative;
-  bottom: 10px;
+  bottom: 20px;
 }
 
 #first {
