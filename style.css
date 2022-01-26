@@ -133,7 +133,7 @@
 
 
 #firstbutton, #secondbutton, #thirdbutton{
-  position: relative;
+ /* position: relative;*/
 /*   bottom: 20px; */
 }
 
