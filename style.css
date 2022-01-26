@@ -133,8 +133,11 @@
 
 
 #firstbutton, #secondbutton, #thirdbutton{
- /* position: relative;*/
-/*   bottom: 20px; */
+     
+          width:150px;
+          height:40px;
+          font-size:16px;
+  
 }
 
 #first {
