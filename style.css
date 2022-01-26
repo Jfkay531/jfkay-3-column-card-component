@@ -5,7 +5,7 @@
 
           background-color: hsl(0, 0%, 95%);
           font-family: 'Lexend Deca', sans-serif;
-    margin: 0px;
+    margin: 25px;
     /*center vertically and horizontally */
     display: flex;
     justify-content:center;
